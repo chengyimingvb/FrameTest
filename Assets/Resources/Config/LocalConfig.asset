@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ed0eb9de3144446bcbc9463b66940a, type: 3}
+  m_Name: LocalConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  FoldInfo: 1
+  FoldVersion: 1
+  FoldSetting: 0
+  FoldSettingSteam: 1
+  FoldSettingBuild: 0
+  FoldDLC: 0
+  FoldBuild: 0
+  FoldHotFix: 0
+  FoldHotFixGenerate: 0
+  FoldExplorer: 0
+  FoldSceneList: 0
+  FoldOther: 0
+  FoldSubWindow: 0
+  FoldConfigWindow: 0
+  ABDownloadPath: D:/GitWork/HotFix
+  FoldRawComponent: 1
+  FoldComponent: 1
+  FoldView: 1

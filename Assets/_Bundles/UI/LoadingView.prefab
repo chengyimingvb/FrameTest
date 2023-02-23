@@ -253,7 +253,7 @@ MonoBehaviour:
   EffectColorTrans: []
   AnimTrans: []
   SpriteTrans: []
-  IName: {fileID: 0}
+  IName: {fileID: 1543542287324454736}
   IIcon: {fileID: 0}
   IBg: {fileID: 0}
   IsAnim: 0
@@ -364,7 +364,6 @@ GameObject:
   - component: {fileID: 1866591066265716747}
   - component: {fileID: 419581486774419735}
   - component: {fileID: 6162315654452769682}
-  - component: {fileID: 9220725336339907598}
   m_Layer: 5
   m_Name: BG
   m_TagString: Untagged
@@ -430,102 +429,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &9220725336339907598
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1275910445726726414}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a2a9e72e607a8b45b04bf6e70201abd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  IsIgnoreBlockClick: 0
-  IsRecord: 0
-  IsActiveByShow: 1
-  ShowType: 0
-  MutexGroup: 0
-  IsAlphaShow: 0
-  IsColorShow: 0
-  IsPosShow: 0
-  IsScaleShow: 0
-  IsSimpleShow: 0
-  AlphaShow:
-    Target: {fileID: 0}
-    IsSameDuration: 1
-    OpenDuration: 0.2
-    CloseDuration: 0.2
-    Duration: 0.2
-    Delay: 0
-    IsReset: 0
-    UseCheck: 0
-    InEase: 27
-    OutEase: 26
-    From: 0.5
-    To: 1
-  ColorShow:
-    Target: {fileID: 0}
-    IsSameDuration: 1
-    OpenDuration: 0.2
-    CloseDuration: 0.2
-    Duration: 0.2
-    Delay: 0
-    IsReset: 0
-    UseCheck: 0
-    InEase: 27
-    OutEase: 26
-    From: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    To: {r: 1, g: 1, b: 1, a: 1}
-  PosShow:
-    Target: {fileID: 0}
-    IsSameDuration: 1
-    OpenDuration: 0.2
-    CloseDuration: 0.2
-    Duration: 0.2
-    Delay: 0
-    IsReset: 0
-    UseCheck: 0
-    InEase: 27
-    OutEase: 26
-    From: {x: 0.5, y: 0.5}
-  ScaleShow:
-    Target: {fileID: 0}
-    IsSameDuration: 1
-    OpenDuration: 0.2
-    CloseDuration: 0.2
-    Duration: 0.2
-    Delay: 0
-    IsReset: 0
-    UseCheck: 0
-    InEase: 27
-    OutEase: 26
-    From: {x: 0.5, y: 0.5}
-  AlphaSimpleShow:
-    Target: {fileID: 0}
-    IsSameDuration: 1
-    OpenDuration: 0.2
-    CloseDuration: 0.2
-    Duration: 0.2
-    Delay: 0
-    IsReset: 0
-    UseCheck: 0
-    InEase: 27
-    OutEase: 26
-    From: 0.5
-  IsCanClick: 1
-  IsCanLongPress: 0
-  IsCanLongEnter: 0
-  FontType: 0
-  ColorTrans: []
-  PosTrans: []
-  ScaleTrans: []
-  EffectColorTrans: []
-  AnimTrans: []
-  SpriteTrans: []
-  IIcon: {fileID: 0}
-  IFrame: {fileID: 0}
 --- !u!1 &1546665338250205620
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,7 +958,7 @@ MonoBehaviour:
   LoadingSprities:
   - {fileID: 21300000, guid: c02025e5048d8664f9b9ca406b3d8b4c, type: 3}
   RawBG: {fileID: 4328901202534296464}
-  BG: {fileID: 9220725336339907598}
+  BG: {fileID: 0}
   Loading: {fileID: 5882957437551149434}
   LoadEndTip: {fileID: 1833828235923860518}
   Tip: {fileID: 7681098488012735303}

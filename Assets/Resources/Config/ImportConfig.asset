@@ -21,6 +21,15 @@ MonoBehaviour:
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
     SerializationNodes: []
+  ResUI:
+    dir: UI
+    PackingTag: UI
+    dirRoot: 2
+    CrunchedCompression: 1
+    CompressionQuality: 100
+    FilterMode: 1
+    TextureImporterType: 8
+    TextureCompression: 1
   UI:
     dir: UI
     PackingTag: UI

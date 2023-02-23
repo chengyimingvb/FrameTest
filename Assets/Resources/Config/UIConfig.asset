@@ -166,6 +166,24 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+    - Name: Checked
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: 
       Entry: 8
       Data: 
@@ -254,6 +272,24 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: Selected
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Checked
       Entry: 7
       Data: UnityEngine.Color, UnityEngine.CoreModule
     - Name: 
@@ -376,6 +412,24 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+    - Name: Checked
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: 
       Entry: 8
       Data: 
@@ -436,16 +490,19 @@ MonoBehaviour:
   ProgressBG: {fileID: 0}
   ProgressFill: {fileID: 0}
   Error: {fileID: 0}
+  BlockerBGColor: {r: 0, g: 0, b: 0, a: 0.5}
   ButtonPresenterStateColor:
     Normal: {r: 1, g: 1, b: 1, a: 1}
     Enter: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
     Press: {r: 1, g: 1, b: 1, a: 1}
     Disable: {r: 1, g: 1, b: 1, a: 1}
     Selected: {r: 1, g: 1, b: 1, a: 1}
+    Checked: {r: 1, g: 1, b: 1, a: 1}
   TextPresenterStateColor:
     Normal: {r: 1, g: 1, b: 1, a: 1}
     Enter: {r: 1, g: 1, b: 1, a: 1}
     Press: {r: 1, g: 1, b: 1, a: 1}
     Disable: {r: 1, g: 1, b: 1, a: 1}
     Selected: {r: 1, g: 1, b: 1, a: 1}
+    Checked: {r: 1, g: 1, b: 1, a: 1}
   SpriteGroupConfigs: []

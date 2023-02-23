@@ -47,12 +47,7 @@
     }
     public partial class CMusic
     {
-        public const string AlphaPrime = "AlphaPrime";
         public const string NewHorizons = "NewHorizons";
-    }
-    public partial class CVideo
-    {
-        public const string Chinese = "Chinese";
     }
     public partial class CUI
     {

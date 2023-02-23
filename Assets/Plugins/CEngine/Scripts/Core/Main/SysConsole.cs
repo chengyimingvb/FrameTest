@@ -120,8 +120,8 @@ namespace CYM
 
         static string KeyConsole = "";
         static string KeySysConsole = "";
-        private static Dictionary<string, MethodInfo> methodInfoCache;
-        private static Dictionary<string, MethodInfo> methodUpdateCache;
+        private static Dictionary<string, MethodInfo> methodInfoCache = new Dictionary<string, MethodInfo>();
+        private static Dictionary<string, MethodInfo> methodUpdateCache = new Dictionary<string, MethodInfo>();
         public static void ExecuteCommand(string methodName, params string[] args)
         {
             if (methodInfoCache == null || !methodInfoCache.ContainsKey(methodName))
@@ -179,6 +179,7 @@ namespace CYM
         bool setFocusPending;
         string input;
         int inputBufferIndex = 0;
+        static bool IsInit = false;
         #endregion
 
         #region Log
@@ -225,6 +226,7 @@ namespace CYM
         public static void Initialize()
         {
             if (Ins==null) return;
+            IsInit = true;
             Log_queue = new Queue<LogMessage>();
             Texture2D back = new Texture2D(1, 1);
             back.SetPixel(0, 0, new Color(0, 0, 0, 0.5f));
@@ -254,7 +256,7 @@ namespace CYM
         {
             base.OnUpdate();
             if (!Application.isPlaying) return;
-
+            if (!IsInit) return;
             if (Input.GetKeyUp(ToggleKey) || MultitouchDetected())
             {
                 Toggle();

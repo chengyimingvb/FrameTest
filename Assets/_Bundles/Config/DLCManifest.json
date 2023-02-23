@@ -638,30 +638,9 @@
                 {
                     "BuildRuleName": "music",
                     "SourceBundleName": "music",
-                    "FullPath": "Assets/_Bundles/Music/Battle/AlphaPrime.wav",
-                    "FileName": "AlphaPrime",
-                    "Category": "battle"
-                },
-                {
-                    "BuildRuleName": "music",
-                    "SourceBundleName": "music",
                     "FullPath": "Assets/_Bundles/Music/MainMenu/NewHorizons.wav",
                     "FileName": "NewHorizons",
                     "Category": "mainmenu"
-                }
-            ]
-        },
-        {
-            "DLCName": "Native",
-            "BundleName": "native_video",
-            "IsShared": false,
-            "AssetFullPaths": [
-                {
-                    "BuildRuleName": "video",
-                    "SourceBundleName": "video",
-                    "FullPath": "Assets/_Bundles/Video/Chinese.mp4",
-                    "FileName": "Chinese",
-                    "Category": ""
                 }
             ]
         },

@@ -2069,7 +2069,7 @@ MonoBehaviour:
   EffectColorTrans: []
   AnimTrans: []
   SpriteTrans: []
-  IImage: {fileID: 0}
+  IImage: {fileID: 456172216596887648}
 --- !u!1 &6322881113640201700
 GameObject:
   m_ObjectHideFlags: 0
@@ -2445,7 +2445,7 @@ MonoBehaviour:
   EffectColorTrans: []
   AnimTrans: []
   SpriteTrans: []
-  IImage: {fileID: 0}
+  IImage: {fileID: 3658854637428362211}
 --- !u!1 &7271441679690380080
 GameObject:
   m_ObjectHideFlags: 0

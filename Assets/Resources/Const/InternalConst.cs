@@ -8,6 +8,10 @@
     public partial class CAudio
     {
         public const string AppTab = "AppTab";
+        public const string BntHover = "BntHover";
+        public const string Error = "Error";
+        public const string Event = "Event";
+        public const string Tabclick = "Tabclick";
     }
     public partial class CMaterial
     {
@@ -44,6 +48,7 @@
         public const string URootView = "URootView";
         public const string UWorldRootView = "UWorldRootView";
         public const string UBattleMenuView = "UBattleMenuView";
+        public const string UCharaSelectView = "UCharaSelectView";
         public const string UGuideView = "UGuideView";
         public const string ULoadingView = "ULoadingView";
         public const string UMainMenuView = "UMainMenuView";
@@ -54,7 +59,10 @@
         public const string USelectView = "USelectView";
         public const string USettingsView = "USettingsView";
         public const string UTestView = "UTestView";
+        public const string UTipView = "UTipView";
         public const string UTooltipTopdownView = "UTooltipTopdownView";
         public const string UTooltipView = "UTooltipView";
+        public const string BaseLoggerView = "BaseLoggerView";
+        public const string BaseLogItem = "BaseLogItem";
     }
 }

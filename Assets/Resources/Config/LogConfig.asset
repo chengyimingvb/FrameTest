@@ -43,3 +43,8 @@ MonoBehaviour:
       Data: 
   Enable: 1
   Level: -1
+  Items:
+    isExpanded: 0
+    _keyValues: []
+    _keys: []
+    _values: []

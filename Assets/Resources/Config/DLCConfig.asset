@@ -98,6 +98,7 @@ MonoBehaviour:
   Texture: 0
   Illustration: 0
   Audio: 0
+  Narration: 0
   Material: 0
   Music: 0
   Video: 0
@@ -105,4 +106,5 @@ MonoBehaviour:
   Prefab: 0
   Perform: 0
   UI: 0
+  Scene: 2
   BuildRule: []

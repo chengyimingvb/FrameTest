@@ -186,6 +186,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -198,6 +199,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {r: 0.5, g: 0.5, b: 0.5, a: 1}
@@ -210,6 +212,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -221,6 +224,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -232,6 +236,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -280,7 +285,6 @@ GameObject:
   - component: {fileID: 114201056939249444}
   - component: {fileID: 114305872335543714}
   - component: {fileID: 114135453798733720}
-  - component: {fileID: 114917992804695984}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -376,6 +380,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -388,6 +393,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {r: 0.5, g: 0.5, b: 0.5, a: 1}
@@ -400,6 +406,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -411,6 +418,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -422,6 +430,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -452,18 +461,6 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
   m_EffectDistance: {x: 1, y: -1}
   m_UseGraphicAlpha: 1
---- !u!114 &114917992804695984
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1330688694873118}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eddc1fbd4bd796345832996a9560b9bd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1354767120408212
 GameObject:
   m_ObjectHideFlags: 0
@@ -575,6 +572,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -587,6 +585,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {r: 0.5, g: 0.5, b: 0.5, a: 1}
@@ -599,6 +598,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -610,6 +610,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -621,6 +622,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -855,6 +857,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -867,6 +870,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {r: 0.5, g: 0.5, b: 0.5, a: 1}
@@ -879,6 +883,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -890,6 +895,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: {x: 0.5, y: 0.5}
@@ -901,6 +907,7 @@ MonoBehaviour:
     Duration: 0.2
     Delay: 0
     IsReset: 0
+    UseCheck: 0
     InEase: 27
     OutEase: 26
     From: 0.5
@@ -925,10 +932,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 224568320302227084}
-  - component: {fileID: 114185293053467174}
   - component: {fileID: 222399778270551642}
   - component: {fileID: 114584973054622158}
-  - component: {fileID: 114675231032597248}
   m_Layer: 5
   m_Name: Mask
   m_TagString: Untagged
@@ -957,19 +962,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 500, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &114185293053467174
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1733427797597396}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ShowMaskGraphic: 0
 --- !u!222 &222399778270551642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1008,34 +1000,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &114675231032597248
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1733427797597396}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0bac33ade27cf4542bd53b1b13d90941, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _source: 0
-  _separateMask: {fileID: 0}
-  _sprite: {fileID: 0}
-  _spriteBorderMode: 0
-  _spritePixelsPerUnitMultiplier: 1
-  _texture: {fileID: 0}
-  _textureUVRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  _channelWeights: {r: 0, g: 0, b: 0, a: 1}
-  _raycastThreshold: 0.9
-  _invertMask: 0
-  _invertOutsides: 0
 --- !u!1 &1743407950113590
 GameObject:
   m_ObjectHideFlags: 0
@@ -1302,7 +1266,6 @@ MonoBehaviour:
   IsFullScreen: 0
   IsAddBlocker: 1
   IsBlockerClose: 0
-  BlockerCol: {r: 0, g: 0, b: 0, a: 0.5}
   IsShowDefault: 0
   IsActiveByShow: 1
   IsDragable: 0
@@ -1325,6 +1288,7 @@ MonoBehaviour:
     StartPos: {x: 0, y: 0}
   IsFocus: 1
   IsLayoutRebuild: 0
+  AlphaAnimator: []
   PosAnimator: []
   ScaleAnimator: []
   BntInfo: {fileID: 0}
